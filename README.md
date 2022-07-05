@@ -1,5 +1,6 @@
 # Hackerrank-Java
 Problem  1 of HackerRank  Java
+
 public class Solution {
 
     public static void main(String[] args) {
